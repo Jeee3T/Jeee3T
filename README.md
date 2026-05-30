@@ -1,111 +1,97 @@
-# Hi there 👋, I'm Prasanjeet Panda
+# Hi, I'm Prasanjeet Panda 👋
 
-### Full Stack Developer | Python Developer | AI Enthusiast
+I'm currently pursuing an MCA at Acharya Institute of Technology, Bengaluru.
 
-I'm currently pursuing my **Master of Computer Applications (MCA)** at **Acharya Institute of Technology, Bengaluru**. I enjoy building scalable web applications, backend systems, and AI-powered solutions that solve real-world problems.
+I enjoy building full-stack applications, backend systems, and experimenting with AI-powered tools. Most of my work revolves around Python, JavaScript, APIs, databases, and real-time applications. Recently, I've been spending more time exploring AI agents, LLM integrations, and practical automation systems.
 
----
+## What I'm Working On
 
-## 🚀 About Me
+* Real-time collaborative applications
+* Full-stack web development
+* AI and machine learning projects
+* Backend systems and REST APIs
+* Data structures and algorithms
 
-* 🔭 Currently working on **real-time collaboration systems**
-* 🌱 Learning **Data Structures & Algorithms, System Design, and AI Agents**
-* 💻 Passionate about **Full Stack Development**
-* 🤖 Exploring **LLMs, AI Automation, and Tool-Calling Systems**
-* 🎯 Goal: Build impactful software that improves productivity and user experience
-
----
-
-## 🛠️ Tech Stack
+## Tech I Use
 
 ### Languages
 
-```text
-Python | JavaScript | C | C++ | SQL
-```
+* Python
+* JavaScript
+* Java
+* C
+* C++
 
 ### Frontend
 
-```text
-HTML | CSS | JavaScript | React
-```
+* HTML5
+* CSS3
+* React
+* Tailwind CSS
+* Vite
 
 ### Backend
 
-```text
-Node.js | Express.js | Django | REST APIs
-```
+* Node.js
+* Express.js
+* Django
+* Flask
+* FastAPI
+* Socket.IO
 
 ### Databases
 
-```text
-MongoDB | MySQL
-```
+* MongoDB
+* MySQL
+* Oracle
+
+### AI / Machine Learning
+
+* TensorFlow
+* PyTorch
+* Keras
+* Scikit-Learn
+* Pandas
+* NumPy
+* Matplotlib
 
 ### Tools
 
-```text
-Git | GitHub | Postman | VS Code | Linux
-```
+* Git
+* GitHub
+* Docker
+* NPM
+* Streamlit
 
----
+## Projects
 
-## 💡 Projects
+### Collaborative Whiteboard
 
-### 🎨 Real-Time Whiteboard Collaboration Platform
+A real-time whiteboard application that allows multiple users to draw and interact simultaneously.
 
-A collaborative whiteboard application that enables multiple users to draw and interact in real time.
+### AI & Machine Learning Applications
 
-**Features**
+Projects focused on predictive modeling, data analysis, automation, and practical AI solutions.
 
-* Real-time synchronization
-* User collaboration
-* Scalable backend architecture
-* Express.js and MongoDB integration
+### Full Stack Web Applications
 
-### 🤖 AI & Automation Projects
+Applications built using React, Node.js, Django, MongoDB, and REST APIs.
 
-Exploring intelligent systems, AI integrations, workflow automation, and practical applications of large language models.
+## Experience & Activities
 
----
+* Volunteer at IEEE ICTCT-2025 International Conference
+* Participant in Promptathon (Simba GPT), Acharya AI Fest 2025
+* Built academic and personal projects involving web development, databases, machine learning, and real-time systems
 
-## 🎯 Current Focus
+## Currently Learning
 
-* Data Structures & Algorithms
-* Backend Engineering
-* Full Stack Development
-* AI Agents & Tool Calling
 * System Design
-* Cloud & Scalable Architectures
+* AI Agents & Tool Calling
+* Advanced Backend Development
+* Scalable Application Architecture
 
----
-
-## 🏆 Achievements
-
-* 🎓 MCA Student at Acharya Institute of Technology
-* 🤝 Volunteer at **IEEE ICTCT-2025 International Conference**
-* 🧠 Participant in **Promptathon – Simba GPT, Acharya AI Fest (IVIS Lab)**
-* 💻 Built multiple academic and personal projects involving web development, APIs, databases, and real-time systems
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="GitHub Streak" />
-</p>
-
----
-
-## 📫 Connect With Me
+## Connect
 
 * LinkedIn: [www.linkedin.com/in/prasanjeet-panda-595047281](http://www.linkedin.com/in/prasanjeet-panda-595047281)
-* Email: [your-email@example.com](mailto:your-email@example.com)
 
----
-
-> *"Keep learning, keep building, and keep improving."*
+Thanks for stopping by!
