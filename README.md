@@ -1,97 +1,103 @@
-# Hi, I'm Prasanjeet Panda 👋
+# Hi there 👋, I'm Prasanjeet Panda
 
-I'm currently pursuing an MCA at Acharya Institute of Technology, Bengaluru.
+### Full Stack Developer | Python Developer | AI Enthusiast
 
-I enjoy building full-stack applications, backend systems, and experimenting with AI-powered tools. Most of my work revolves around Python, JavaScript, APIs, databases, and real-time applications. Recently, I've been spending more time exploring AI agents, LLM integrations, and practical automation systems.
+I'm currently pursuing my **Master of Computer Applications (MCA)** at **Acharya Institute of Technology, Bengaluru**. I enjoy building scalable web applications, backend systems, and AI-powered solutions that solve real-world problems.
 
-## What I'm Working On
+---
 
-* Real-time collaborative applications
-* Full-stack web development
-* AI and machine learning projects
-* Backend systems and REST APIs
-* Data structures and algorithms
+## 🚀 About Me
 
-## Tech I Use
+* 🔭 Currently working on **real-time collaboration systems**
+* 🌱 Learning **Data Structures & Algorithms, System Design, and AI Agents**
+* 💻 Passionate about **Full Stack Development**
+* 🤖 Exploring **LLMs, AI Automation, and Tool-Calling Systems**
+* 🎯 Interested in building software that is practical, scalable, and useful
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 
-* Python
-* JavaScript
-* Java
-* C
-* C++
+```text
+Python | JavaScript | Java | C | C++ | SQL
+```
 
 ### Frontend
 
-* HTML5
-* CSS3
-* React
-* Tailwind CSS
-* Vite
+```text
+HTML5 | CSS3 | React | Tailwind CSS | Vite
+```
 
 ### Backend
 
-* Node.js
-* Express.js
-* Django
-* Flask
-* FastAPI
-* Socket.IO
+```text
+Node.js | Express.js | Django | Flask | FastAPI | Socket.IO | REST APIs
+```
 
 ### Databases
 
-* MongoDB
-* MySQL
-* Oracle
+```text
+MongoDB | MySQL | Oracle
+```
 
 ### AI / Machine Learning
 
-* TensorFlow
-* PyTorch
-* Keras
-* Scikit-Learn
-* Pandas
-* NumPy
-* Matplotlib
+```text
+TensorFlow | PyTorch | Keras | Scikit-Learn | Pandas | NumPy | Matplotlib
+```
 
-### Tools
+### Tools & Technologies
 
-* Git
-* GitHub
-* Docker
-* NPM
-* Streamlit
+```text
+Git | GitHub | Docker | NPM | Streamlit
+```
 
-## Projects
+---
 
-### Collaborative Whiteboard
+## 💡 Projects
 
-A real-time whiteboard application that allows multiple users to draw and interact simultaneously.
+### 🎨 Real-Time Whiteboard Collaboration Platform
 
-### AI & Machine Learning Applications
+A collaborative whiteboard application that enables multiple users to draw and interact in real time.
 
-Projects focused on predictive modeling, data analysis, automation, and practical AI solutions.
+**Features**
 
-### Full Stack Web Applications
+* Real-time synchronization
+* User collaboration
+* Scalable backend architecture
+* Express.js and MongoDB integration
 
-Applications built using React, Node.js, Django, MongoDB, and REST APIs.
+### 🤖 AI & Automation Projects
 
-## Experience & Activities
+Exploring intelligent systems, AI integrations, workflow automation, and practical applications of machine learning and large language models.
 
-* Volunteer at IEEE ICTCT-2025 International Conference
-* Participant in Promptathon (Simba GPT), Acharya AI Fest 2025
-* Built academic and personal projects involving web development, databases, machine learning, and real-time systems
+---
 
-## Currently Learning
+## 🎯 Current Focus
 
-* System Design
+* Data Structures & Algorithms
+* Backend Engineering
+* Full Stack Development
 * AI Agents & Tool Calling
-* Advanced Backend Development
-* Scalable Application Architecture
+* System Design
+* Building scalable applications
 
-## Connect
+---
 
-* LinkedIn: [www.linkedin.com/in/prasanjeet-panda-595047281](http://www.linkedin.com/in/prasanjeet-panda-595047281)
+## 🏆 Achievements
 
-Thanks for stopping by!
+* 🎓 MCA Student at Acharya Institute of Technology
+* 🤝 Volunteer at **IEEE ICTCT-2025 International Conference**
+* 🧠 Participant in **Promptathon – Simba GPT, Acharya AI Fest (IVIS Lab)**
+* 💻 Built projects involving web development, APIs, databases, AI, and real-time systems
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/prasanjeet-panda
+* Email: prasanjeetpanda06@gmail.com
+
+---
